@@ -1,0 +1,3 @@
+# ICP
+
+Infinity Champions Assignment
