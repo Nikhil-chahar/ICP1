@@ -1,8 +1,12 @@
 package ICP1.Day_06_03_October;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Q02_LC_77_Combinations {
     public static void main(String[] args) {
-        
+        int n = 4, k = 2;
+        combine(n,k);
     }
     public List<List<Integer>> combine(int n, int k) {
         List<List<Integer>> ans = new ArrayList<>();
